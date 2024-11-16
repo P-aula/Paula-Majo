@@ -1,0 +1,9 @@
+essay_set,lda_vs_tfidf_cluster,lda_vs_bert_cluster,tfidf_vs_bert_cluster,bert_vs_fast_cluster
+1,2,4,0,0
+2,7,2,1,0
+3,0,0,4,4
+4,7,4,0,0
+5,7,6,1,2
+6,4,1,2,5
+7,3,0,5,6
+8,6,5,2,1
